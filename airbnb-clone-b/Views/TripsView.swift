@@ -53,7 +53,7 @@ struct TripsView: View {
                         .font(.caption)
                     }
                 }
-                .padding(.vertical,8)
+                .padding(.vertical,9)
                 .frame(maxHeight: 119)
                 Spacer()
                 }
