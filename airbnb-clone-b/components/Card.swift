@@ -32,7 +32,8 @@ struct Card: View {
                         .foregroundStyle(.gray)
                     Text("$1,065 total")
                         .fontWeight(.semibold)
-        }.padding()
+        }
+        .padding()
     }
 }
 

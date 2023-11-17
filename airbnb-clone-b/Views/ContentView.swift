@@ -11,7 +11,7 @@ struct ContentView: View {
     var body: some View {
         VStack {
             ScrollView(.horizontal, showsIndicators: false){
-            HStack(spacing:50){
+            HStack(spacing:40){
                 Category(icon: "ovni", text: "OMG")
                 Category(icon: "beaches", text: "Beaches")
                 Category(icon: "home", text: "Tiny home")

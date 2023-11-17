@@ -15,7 +15,6 @@ struct TapItem: View {
             Image(icon)
                 .renderingMode(.template)
             Text(text)
-                
         }
     }
 }
